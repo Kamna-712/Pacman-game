@@ -56,3 +56,7 @@ To run this project locally, follow these steps:
 - **Multiplayer Support:** Add functionality for multiplayer gameplay.
 - **Improved AI:** Enhance ghost AI for more challenging gameplay.
 
+
+https://github.com/Kamna-712/Pacman-game/assets/130769466/ab4fb32e-9ec7-4f1c-85aa-a63d5ef528d2
+
+
