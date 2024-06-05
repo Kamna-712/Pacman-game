@@ -57,6 +57,5 @@ To run this project locally, follow these steps:
 - **Improved AI:** Enhance ghost AI for more challenging gameplay.
 
 
-https://github.com/Kamna-712/Pacman-game/assets/130769466/ab4fb32e-9ec7-4f1c-85aa-a63d5ef528d2
-
+https://github.com/Kamna-712/Pacman-game/assets/130769466/05f66824-b2ed-4278-9b66-0f768033b797
 
